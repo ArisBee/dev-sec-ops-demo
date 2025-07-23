@@ -1,4 +1,5 @@
 function App() {
+// This is the main app function
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <Container>
