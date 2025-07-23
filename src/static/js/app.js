@@ -1,5 +1,4 @@
 function App() {
-    // Test
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <Container>
