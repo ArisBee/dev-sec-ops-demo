@@ -16,6 +16,7 @@
     "wait-port": "^0.2.2"
   },
   "resolutions": {
+    "form-data": "4.0.4",
     "ansi-regex": "5.0.1"
   },
   "prettier": {
